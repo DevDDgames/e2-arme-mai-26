@@ -1,0 +1,13 @@
+{
+  "name": "visualisation-3d",
+  "version": "1.0.0",
+  "description": "Application de visualisation 3D avec model-viewer",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": ["3d", "model-viewer", "visualization"],
+  "author": "",
+  "license": "ISC"
+}
